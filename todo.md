@@ -6,7 +6,7 @@
 - [x] Add a contact form
 - [x] Make it look good on phones
 - [x] Get it ready to go live
-- [ ] Put it online
+- [x] Put it online
 
 - [x] Set up the online upload
 - [x] Store the online publish settings
