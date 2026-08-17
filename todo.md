@@ -1,0 +1,11 @@
+- [x] Make the project folder
+- [x] Write this plan
+- [x] Wait for your okay
+- [x] Make the home page
+- [x] Add house listings
+- [x] Add a contact form
+- [x] Make it look good on phones
+- [x] Get it ready to go live
+- [ ] Put it online
+
+- [x] Set up the online upload
