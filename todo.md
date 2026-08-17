@@ -9,3 +9,4 @@
 - [ ] Put it online
 
 - [x] Set up the online upload
+- [x] Store the online publish settings
